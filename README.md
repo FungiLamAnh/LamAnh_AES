@@ -4,6 +4,6 @@
 * AES làm việc với các khối dữ liệu có kích thước cố định là 128 bit (16 byte).
 * AES hỗ trợ ba kích thước khóa khác nhau là 128, 192 và 256 bit, tương ứng với các phiên bản AES-128, AES-192 và AES-256.
 * Số vòng (rounds): Số vòng mã hóa phụ thuộc vào độ dài khóa:
-* *10 vòng cho AES-128
-* *12 vòng cho AES-192
-* *14 vòng cho AES-256
+  - 10 vòng cho AES-128
+  - 12 vòng cho AES-192
+  - 14 vòng cho AES-256
