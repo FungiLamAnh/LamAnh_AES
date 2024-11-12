@@ -16,3 +16,8 @@
   - MixColumns: Trộn các cột của khối dữ liệu bằng các phép toán đại số để tăng sự khuếch tán.
   - AddRoundKey: Kết hợp khóa con (round key) với khối dữ liệu qua phép XOR.
 * Final Round: Vòng cuối cùng chỉ bao gồm ba bước: SubBytes, ShiftRows, và AddRoundKey (không có MixColumns).
+## Hai loại hiển thị
+### Giao diện trong Terminal (CLI)
+![image](https://github.com/user-attachments/assets/590e9295-81b1-459e-b275-e5ff53e77daa)
+### Giao diện GUI
+![image](https://github.com/user-attachments/assets/b7ea9b45-a78b-429a-ae28-e3b109a4ef7d)
