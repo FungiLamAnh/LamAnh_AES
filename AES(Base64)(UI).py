@@ -1,4 +1,7 @@
-import base64 #Thêm thư viện Base64
+#Thêm thư viện Base64
+import base64 
+
+#Thêm thư viện tinker tiêu chuẩn
 import tkinter as tk
 from tkinter import messagebox
 
